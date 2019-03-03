@@ -1,5 +1,6 @@
 # phpUploader
 
+Ensure to change the settings to what suits your needs
 
 $targetFolder = 'uploads/docs/'; // Relative to the root
 
